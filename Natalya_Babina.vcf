@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Бабина;Наталья;;;
+FN:Наталья Бабина
+ORG:Аркобалено Инжиниринг
+TITLE:Менеджер по сопровождению клиентов
+TEL;TYPE=CELL,VOICE:+79254102905
+EMAIL;TYPE=INTERNET,WORK:n.babina@arcoengi.ru
+ADR;TYPE=WORK:;;Рязанский проспект\, д. 10 с18;Моск
+ ва;;;Россия
+URL:https://arcoengi.ru
+URL:https://t.me/arcoengi
+URL:https://t.me/Cluen
+NOTE:Личный Telegram: @Cluen
+END:VCARD
