@@ -8,7 +8,7 @@
 Менеджер по сопровождению клиентов
 +7 (925) 410-29-05
 n.babina@arcoengi.ru
-Личный Telegram: https://t.me/Cluen
+Личный Telegram: https://t.me/natalybabina
 Telegram компании: https://t.me/arcoengi
 
 КАК ПОСМОТРЕТЬ
